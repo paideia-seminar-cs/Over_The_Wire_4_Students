@@ -13,8 +13,7 @@ Before starting the challenges, fill in your name in the line below (First Last)
 
 Name:  
 
----
-##Level 0:
+## Level 0:
 
 The password for Level 1 is found in a file named readme
 
@@ -24,8 +23,7 @@ Explanation_0:
 
 password_1: 
 
----
-##Level 1:
+## Level 1:
 
 This time the password is found in a file named -  (yes, it is a dash!)
 
@@ -35,8 +33,7 @@ Explanation_1:
 
 password_2: 
 
----
-##Level 2:
+## Level 2:
 
 This time the password is found in a file that has spaces in its name.
 
@@ -46,4 +43,4 @@ Explanation_2:
 
 password_2: 
 
----
+
